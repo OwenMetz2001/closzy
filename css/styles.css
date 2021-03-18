@@ -1,0 +1,40 @@
+.player {
+	width: 300px;
+	height: 450px;
+}
+#achtergrond {
+	background-image: url(../images/1.png);
+	color: white;
+	font-family: 'Bebas Neue', cursive;
+	position: 
+}
+
+.jumbotron {
+	height: 1125px;
+	background-size: cover;
+}
+
+#border {
+	border-color: #FF9D62;
+	border-style: solid;
+	border-width: 50px;
+}
+
+.center {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.center2 {
+	position: absolute;
+	top: 55%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.orange {
+	color: #FF9D62;
+	font-family: 'Bebas Neue', cursive;
+}
