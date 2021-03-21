@@ -12,6 +12,8 @@
 .jumbotron {
 	height: 1125px;
 	background-size: cover;
+	width: 100%;
+	background-position: center center;
 }
 
 #border {
@@ -40,9 +42,15 @@
 }
 
 .image {
-	height: 500px;
+	width: 100%;
 }
 
 h1 {
 	font-size: 350%;
 }
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  }
