@@ -57,6 +57,7 @@ h1 {
   left: 16px;
   }
 
+<<<<<<< HEAD
 .contains {
     list-style-type: circle;
     list-style-position: outside;
@@ -68,3 +69,16 @@ h1 {
     margin-bottom: 100px;
 }
 
+=======
+  .imgButton{
+    text-align:center;
+}
+
+.onderkant {
+	margin-bottom: 10px;
+}
+
+.bovenkant {
+	margin-top: 100px;
+}
+>>>>>>> acc57e552c7dfed9ddb458d223f7f552208e4213
