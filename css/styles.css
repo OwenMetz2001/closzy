@@ -56,3 +56,15 @@ h1 {
   top: 8px;
   left: 16px;
   }
+
+  .imgButton{
+    text-align:center;
+}
+
+.onderkant {
+	margin-bottom: 10px;
+}
+
+.bovenkant {
+	margin-top: 100px;
+}
