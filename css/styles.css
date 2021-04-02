@@ -130,7 +130,8 @@ h1 {
 .contact {
     border: 10px solid #FF9D62;
     padding-top: 5px;
-=======
+}
+
 .container2 {
   position: absolute;
   margin: 20px;
@@ -161,9 +162,6 @@ h1 {
 #shop{
 }
 
-#cart {
-}
 
 #contact{
->>>>>>> a272fcb80cee7c5f2e14a97285cbab33cd0365e9
 }
