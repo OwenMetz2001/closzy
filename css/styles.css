@@ -39,8 +39,8 @@
 }
 
 .orange {
-	color: #FF9D62;
-	font-family: 'Bebas Neue', cursive;
+    color: #FF9D62;
+    font-family: 'Bebas Neue', cursive;
 }
 
 .image {
@@ -84,12 +84,34 @@ h1 {
     font-family: 'Bebas Neue', cursive;
     font-size: x-large;
     text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .icons {
-    margin-top: 10px;
     margin-right: 20px;
-    margin-bottom: 10px;
     margin-left: 20px;
     width: 40px;
+}
+
+.photos {
+    text-align: center;
+    font-size: x-large;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.names {
+	margin-top: 5px;
+}
+
+.body-text {
+    text-align: justify;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.contact {
+    border: 10px solid #FF9D62;
+    padding-top: 13px;
 }
