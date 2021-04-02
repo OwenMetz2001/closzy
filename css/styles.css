@@ -79,3 +79,17 @@ h1 {
 .bovenkant {
 	margin-top: 100px;
 }
+
+.footer {
+    font-family: 'Bebas Neue', cursive;
+    font-size: x-large;
+    text-align: center;
+}
+
+.icons {
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    width: 40px;
+}
