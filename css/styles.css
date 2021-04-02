@@ -229,3 +229,26 @@ h1 {
 	max-width: 100%; 
 	height: auto;
 }
+
+.bold {
+	font-family: obliqua,sans-serif;
+	font-weight: 700;
+}
+
+.justification {
+	margin-top: 100px;
+	margin-bottom: 100px;	
+}
+
+.scheme {
+	max-width: 500px;
+	margin-bottom: 15px;
+}
+
+.offers {
+	margin-top: 100px;
+}
+
+.cart {
+	
+}
