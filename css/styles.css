@@ -9,7 +9,9 @@ html {
 #achtergrond {
 	background-image: url(../images/1.png);
 	color: white;
-	font-family: 'Bebas Neue', cursive;
+	font-family: obliqua,sans-serif;
+	font-weight: 10000;
+	font-style: normal;
 	position: 
 }
 
@@ -44,7 +46,9 @@ html {
 
 .orange {
     color: #FF9D62;
-    font-family: 'Bebas Neue', cursive;
+    font-family: obliqua,sans-serif;
+	font-weight: 700;
+	font-style: normal;
 }
 
 .image {
@@ -62,9 +66,9 @@ h1 {
   }
 
 .contains {
-    list-style-type: circle;
-    list-style-position: outside;
-    white-space: normal;
+  list-style-type: circle;
+  list-style-position: outside;
+  white-space: normal;
 }
 
 .products {
@@ -85,7 +89,9 @@ h1 {
 }
 
 .footer {
-    font-family: 'Bebas Neue', cursive;
+    font-family: obliqua,sans-serif;
+	font-weight: 700;
+	font-style: normal;
     font-size: x-large;
     text-align: center;
     margin-top: 20px;
@@ -98,7 +104,6 @@ h1 {
     width: 40px;
 }
 
-<<<<<<< HEAD
 .photos {
     text-align: center;
     font-size: x-large;
@@ -111,6 +116,9 @@ h1 {
 }
 
 .body-text {
+	font-family: obliqua,sans-serif;
+	font-weight: 400;
+	font-style: normal;
     text-align: justify;
 	margin-left: 5px;
 	margin-right: 5px;
@@ -130,7 +138,7 @@ h1 {
 .contact {
     border: 10px solid #FF9D62;
     padding-top: 5px;
-=======
+
 .container2 {
   position: absolute;
   margin: 20px;
@@ -165,5 +173,5 @@ h1 {
 }
 
 #contact{
->>>>>>> a272fcb80cee7c5f2e14a97285cbab33cd0365e9
+
 }
