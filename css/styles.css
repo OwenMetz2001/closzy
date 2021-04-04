@@ -145,7 +145,7 @@ h1 {
 	margin-bottom: 30px;
 }
 
-.contact {
+.contact-title {
     border: 10px solid #FF9D62;
     padding-top: 5px;
     background-color: #FF9D62;
@@ -184,6 +184,9 @@ h1 {
 }
 
 #shop{
+}
+
+#testimonials{
 }
 
 #contact{
@@ -235,6 +238,7 @@ h1 {
 .img-fluid {
 	max-width: 100%; 
 	height: auto;
+	border-radius: 20px;
 }
 
 .bold {
@@ -258,4 +262,12 @@ h1 {
 
 .cart {
     top: 400px;	
+}
+
+.testimonial {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 20px;
 }
