@@ -82,8 +82,8 @@ h1 {
 }
 
 .products {
-    margin-top: 150px;
-    margin-bottom: 150px;
+    margin-top: 300px;
+    margin-bottom: 250px;
 }
 
   .imgButton{
@@ -253,7 +253,7 @@ h1 {
 }
 
 .offers {
-	margin-top: 100px;
+	margin-bottom: 150px;
 }
 
 .cart {
